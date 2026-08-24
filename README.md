@@ -25,13 +25,19 @@ I move between backend systems, LLM applications, and cryptographic research.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
+<!---<!![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat-square&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/-LangChain-000?style=flat-square&logo=langchain)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker)--->
 
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=langchain&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)
 </div>
 
 <br/>
@@ -45,7 +51,12 @@ I move between backend systems, LLM applications, and cryptographic research.
 <div align="center">
 
 usually found somewhere between a stack trace and a research paper.
-[LinkedIn](https://www.linkedin.com/in/anushka0309/) · [Email](anushka150903@gmail.com)· [Instagram](https://www.instagram.com/theanuushka/)
+<!---[LinkedIn](https://www.linkedin.com/in/anushka0309/) · [Email](anushka150903@gmail.com)· [Instagram](https://www.instagram.com/theanuushka/)--->
+<p align="center">
+
+<a href="https://www.linkedin.com/in/anushka0309/"> <img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> &nbsp; <a href="mailto:anushka150903@gmail.com"> <img src="https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/> </a> &nbsp; <a href="https://www.instagram.com/theanuushka/"> <img src="https://img.shields.io/badge/Instagram-000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/> </a>
+
+</p>
 
 The universe became aware enough to ask why it exists.
 </div>
