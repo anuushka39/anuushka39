@@ -52,6 +52,12 @@ usually found somewhere between a stack trace and a research paper.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/anushka0309/"> <img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin" alt="LinkedIn"/> </a> &nbsp; <a href="mailto:anushka150903@gmail.com"> <img src="https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail" alt="Email"/> </a> &nbsp; <a href="https://www.instagram.com/theanuushka/"> <img src="https://img.shields.io/badge/Instagram-000?style=flat-square&logo=instagram" alt="Instagram"/> </a>
+</br>
 
-![](The universe became aware enough to ask why it exists.)
+### 😂 Random Dev Meme
+<img width="386" height="450" alt="image" src="https://github.com/user-attachments/assets/6e3c790b-6ba3-4044-abea-74c9d0b3bb19" />
+<img width="235" height="258" alt="image" src="https://github.com/user-attachments/assets/f194fbaf-fbf8-4675-a205-ab922f730507" />
+<img width="599" height="423" alt="image" src="https://github.com/user-attachments/assets/52052118-9e93-4a4d-b6bd-7bef3637acfd" />
+
+The universe became aware enough to ask why it exists.
 </div>
