@@ -1,82 +1,63 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="380">
-
-# Anushka
-
-### `building systems • breaking abstractions • asking why`
-
-**Backend × AI × Cryptography × Research**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=building+at+the+edge+of+systems%2C+intelligence+%26+chaos;asking+why+it+works%2C+not+just+that+it+works;fastapi+by+day%2C+chaotic+maps+by+night" alt="typing animation" />
 
 </div>
 
----
+<br/>
 
-```text
-$ whoami
+### hey, I'm Anushka — an engineer who builds, and a researcher who keeps asking *why*.
 
-Anushka — an engineer who likes understanding
-what happens underneath the abstraction.
+I move between backend systems, LLM applications, and cryptographic research — not because I can't focus, but because the underlying questions are the same: how does information move, transform, and stay (or stop being) secure.
 
-I build AI-powered systems, backend APIs,
-and occasionally disappear into mathematics
-to figure out why something works.
-```
+<br/>
 
-### currently obsessed with
+## what I'm obsessed with
 
-`AI systems` · `Backend architecture` · `LLMs/RAG` · `Multimodal AI`
-`Cryptography` · `Chaos systems` · `DSA` · `System Design`
+`backend architecture` · `RAG & AI agents` · `multimodal AI` · `chaos-based cryptography` · `the gap between "it works" and "I understand why"`
 
----
+<br/>
 
-### things I've built
+## selected work
 
-**🥗 VitaMind AI**
-`multimodal AI × backend systems`
+**VitaMind AI** — `multimodal AI × backend systems`
+Turns a photo of your meal into a stateful nutrition conversation — Gemini Vision for understanding, FastAPI + MySQL for memory, async inference under the hood, delivered over WhatsApp/Telegram.
+`Python · FastAPI · Gemini Vision · MySQL · async workflows`
 
-Turning food images into personalized nutrition conversations —
-with memory, APIs, asynchronous inference, and AI underneath.
+**Chaos-Based Image Encryption** — `applied cryptography research`
+Exploring chaotic maps as a source of pseudorandomness for image encryption, then breaking my own work — measuring entropy, NPCR, UACI, correlation, and key sensitivity to see where it actually holds up.
+`Python · chaotic systems · security analysis`
 
-`FastAPI` `MySQL` `Gemini Vision` `SQLAlchemy` `LangChain`
+**Misinformation Trust Reports** — `multimodal ML`
+Instead of a binary fake/real label, generates an explainable trust report across text, images, PDFs, and audio.
+`Python · XGBoost · OCR · Gemini API · NLP`
 
-**🔐 Chaos-based Cryptography**
-`research × mathematics × security`
+<br/>
 
-Exploring chaotic maps and image-encryption systems —
-testing them through entropy, NPCR, UACI, correlation, key sensitivity, and performance.
-
-**🕵️ Multimodal Misinformation Detection**
-`AI × explainability`
-
-A system that looks across **text, images, PDFs & audio**
-to produce an explainable trust assessment instead of a simple *fake/real* label.
-
----
-
-### toolbox
-
-```text
-Python   C++   C
-FastAPI  MySQL  SQLAlchemy  Docker
-ML       XGBoost  Gemini  RAG
-LangChain  LangGraph  Computer Vision
-DSA      System Design
-```
-
----
+## stack
 
 <div align="center">
 
-### `I don't just want to know that it works.`
-
-### `I want to know why.`
-
-<br>
-
-<a href="https://github.com/Anushka">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-</a>
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat-square&logo=fastapi)
+![LangChain](https://img.shields.io/badge/-LangChain-000?style=flat-square&logo=langchain)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker)
 
 </div>
 
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+usually found somewhere between a stack trace and a research paper.
+[LinkedIn](#) · [Email](#)
+
+</div>
