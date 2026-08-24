@@ -3,7 +3,7 @@
   
 <br>
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=here+building+at+the+edge+of+systems%2C+intelligence+%26+chaos+hehehe;also+asking+why+it+works%2C+not+just+that+it+works+okayyy;fastapi+by+day%2C+chaotic+maps+by+night" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=building+at+the+edge+of+systems%2C+intelligence+%26+chaosss+;asking+why+it+works%2C+not+just+that+it+works;fastapi+by+day%2C+chaotic+maps+by+night;We+are+the+universe+experiencing+itself." alt="typing animation" />
 
 </div>
 
