@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Terminal GIF"/> 
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="40% alt="Terminal GIF"/> 
 <br>
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=        The universe became aware enough to ask why it exists    ;    building+at+the+edge+of+systems%2C+intelligence+%26+chaos    ;    asking+why+it+works%2C+not+just+that+it+works    ;    fastapi+by+day%2C+chaotic+maps+by+night    " alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=The universe became aware enough to ask why it exists;building+at+the+edge+of+systems%2C+intelligence+%26+chaos;asking+why+it+works%2C+not+just+that+it+works;fastapi+by+day%2C+chaotic+maps+by+night" alt="typing animation" />
 
 </div>
 
