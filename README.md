@@ -1,63 +1,56 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=building+at+the+edge+of+systems%2C+intelligence+%26+chaos;asking+why+it+works%2C+not+just+that+it+works;fastapi+by+day%2C+chaotic+maps+by+night" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=backend+systems+%C3%97+AI+%C3%97+cryptography;curious+about+the+why%2C+not+just+the+how;currently+breaking+things+to+see+how+they+work" alt="typing animation" />
 
 </div>
 
-<br/>
+### hi, I'm Anushka — I build systems, then interrogate why they work.
 
-### hey, I'm Anushka — an engineer who builds, and a researcher who keeps asking *why*.
+I move between backend engineering, AI/LLM systems, and cryptography research —
+not because I'm undecided, but because the interesting problems tend to live
+at the seams between fields.
 
-I move between backend systems, LLM applications, and cryptographic research — not because I can't focus, but because the underlying questions are the same: how does information move, transform, and stay (or stop being) secure.
+---
 
-<br/>
+### what I'm obsessed with
 
-## what I'm obsessed with
+- taking an abstraction apart until I understand the layer underneath it
+- multimodal AI systems that reason over more than just text
+- chaotic systems, entropy, and where "random" actually comes from
+- backend architecture that stays sane under async chaos of its own
 
-`backend architecture` · `RAG & AI agents` · `multimodal AI` · `chaos-based cryptography` · `the gap between "it works" and "I understand why"`
+---
 
-<br/>
+### selected work
 
-## selected work
+**VitaMind AI** · `multimodal AI × backend systems`
+Turns a photo of your meal into a personalized nutrition conversation —
+with persistent memory, async Gemini Vision inference, and a FastAPI backend
+that talks to you over WhatsApp and Telegram.
+`FastAPI` `MySQL` `Gemini Vision` `RAG` `Async`
 
-**VitaMind AI** — `multimodal AI × backend systems`
-Turns a photo of your meal into a stateful nutrition conversation — Gemini Vision for understanding, FastAPI + MySQL for memory, async inference under the hood, delivered over WhatsApp/Telegram.
-`Python · FastAPI · Gemini Vision · MySQL · async workflows`
+**Chaos-Based Image Encryption** *(research)*
+Exploring chaotic maps as a foundation for image encryption — measuring
+security not by intuition but by NPCR, UACI, correlation, and key sensitivity.
+`Chaotic Maps` `Entropy` `Cryptanalysis`
 
-**Chaos-Based Image Encryption** — `applied cryptography research`
-Exploring chaotic maps as a source of pseudorandomness for image encryption, then breaking my own work — measuring entropy, NPCR, UACI, correlation, and key sensitivity to see where it actually holds up.
-`Python · chaotic systems · security analysis`
+**Multimodal Misinformation Detection**
+A trust engine, not a verdict machine — cross-checks text, images, PDFs, and
+audio to produce an *explainable* trust report instead of a bare fake/real label.
+`Python` `XGBoost` `OCR` `Gemini API` `NLP`
 
-**Misinformation Trust Reports** — `multimodal ML`
-Instead of a binary fake/real label, generates an explainable trust report across text, images, PDFs, and audio.
-`Python · XGBoost · OCR · Gemini API · NLP`
+---
 
-<br/>
+### stack
 
-## stack
+`Python` `C++` `C` &nbsp;·&nbsp; `FastAPI` `SQLAlchemy` `MySQL` `JWT` &nbsp;·&nbsp; `LangChain` `LangGraph` `RAG` `AI Agents` &nbsp;·&nbsp; `Docker` `Git`
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat-square&logo=fastapi)
-![LangChain](https://img.shields.io/badge/-LangChain-000?style=flat-square&logo=langchain)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-</div>
-
-<br/>
+---
 
 <div align="center">
 
-usually found somewhere between a stack trace and a research paper.
-[LinkedIn](#) · [Email](#)
+reach me → **[email]** &nbsp;|&nbsp; **[LinkedIn]** &nbsp;|&nbsp; **[twitter/X]**
+
+<sub>replace the bracketed links above with yours</sub>
 
 </div>
