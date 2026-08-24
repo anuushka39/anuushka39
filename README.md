@@ -58,6 +58,59 @@ usually found somewhere between a stack trace and a research paper.
 <img width="386" height="450" alt="image" src="https://github.com/user-attachments/assets/6e3c790b-6ba3-4044-abea-74c9d0b3bb19" />
 <img width="235" height="258" alt="image" src="https://github.com/user-attachments/assets/f194fbaf-fbf8-4675-a205-ab922f730507" />
 <img width="599" height="423" alt="image" src="https://github.com/user-attachments/assets/52052118-9e93-4a4d-b6bd-7bef3637acfd" />
+<img width="236" height="264" alt="image" src="https://github.com/user-attachments/assets/43519f76-a1a2-4df8-bbe5-e06ff3dafae5" />
+ </br>
+ 
+<div align="center">
 
-The universe became aware enough to ask why it exists.
+<svg width="90%" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="purple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="8" y="8" width="884" height="164" rx="22"
+        fill="#0d0b14"
+        stroke="url(#purple)"
+        stroke-width="2"
+        filter="url(#glow)"/>
+
+  <text x="450" y="72"
+        text-anchor="middle"
+        fill="#C084FC"
+        font-size="18"
+        font-family="Arial">
+    ✦ A thought I keep coming back to
+  </text>
+
+  <text x="450" y="112"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-size="20"
+        font-family="Georgia"
+        font-style="italic">
+    “The universe became aware enough to
+  </text>
+
+  <text x="450" y="142"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-size="20"
+        font-family="Georgia"
+        font-style="italic">
+    ask why it exists...”
+  </text>
+</svg>
+
+</div>
 </div>
