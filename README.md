@@ -35,34 +35,22 @@ I move between backend systems, LLM applications, and cryptographic research.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-<!---<!![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat-square&logo=fastapi)
-![LangChain](https://img.shields.io/badge/-LangChain-000?style=flat-square&logo=langchain)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker)--->
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge)
+![Async/Await](https://img.shields.io/badge/Async%2FAwait-%23000000.svg?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-%23000000.svg?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-%23000000.svg?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23000000.svg?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-%23000000.svg?style=for-the-badge)
 
-<!---![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=cplusplus)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
-![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=langchain)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-</div>--->
-
-<br/>
-
-<!-- <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anuushka39&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-</div> -->
 
 <br/>
 
 <div align="center">
 
 usually found somewhere between a stack trace and a research paper.
-<!---[LinkedIn](https://www.linkedin.com/in/anushka0309/) · [Email](anushka150903@gmail.com)· [Instagram](https://www.instagram.com/theanuushka/)--->
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/anushka0309/"> <img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin" alt="LinkedIn"/> </a> &nbsp; <a href="mailto:anushka150903@gmail.com"> <img src="https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail" alt="Email"/> </a> &nbsp; <a href="https://www.instagram.com/theanuushka/"> <img src="https://img.shields.io/badge/Instagram-000?style=flat-square&logo=instagram" alt="Instagram"/> </a>
