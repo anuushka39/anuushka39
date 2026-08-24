@@ -3,7 +3,7 @@
   
 <br>
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=building+at+the+edge+of+systems%2C+intelligence+%26+chaosss+;asking+why+it+works%2C+not+just+that+it+works;fastapi+by+day%2C+chaotic+maps+by+night;We+are+the+universe+experiencing+itself." alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=building+at+the+edge+of+systems%2C+intelligence+%26+chaosss+;asking+why+it+works%2C+not+just+that+it+works;fastapi+by+day%2C+chaotic+maps+by+night;We+are+the+universe+experiencing+itself." alt="typing animation" /> 
 
 </div>
 
@@ -47,7 +47,7 @@ I move between backend systems, LLM applications, and cryptographic research.
 
 <div align="center">
 
-usually found somewhere between a stack trace and a research paper.
+### usually found somewhere between a stack trace and a research paper.
 
 <p align="center">
 
@@ -60,7 +60,7 @@ usually found somewhere between a stack trace and a research paper.
 <img width="599" height="423" alt="image" src="https://github.com/user-attachments/assets/52052118-9e93-4a4d-b6bd-7bef3637acfd" />
 <img width="236" height="264" alt="image" src="https://github.com/user-attachments/assets/43519f76-a1a2-4df8-bbe5-e06ff3dafae5" />
  </br>
- 
+  </br>
 <div align="center">
 
 <svg width="90%" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
@@ -90,7 +90,7 @@ usually found somewhere between a stack trace and a research paper.
         fill="#C084FC"
         font-size="18"
         font-family="Arial">
-    ✦ A thought I keep coming back to
+   ### ✦ A thought I keep coming back to
   </text>
 
   <text x="450" y="112"
@@ -99,7 +99,7 @@ usually found somewhere between a stack trace and a research paper.
         font-size="20"
         font-family="Georgia"
         font-style="italic">
-    “The universe became aware enough to
+###   “The universe became aware enough to
   </text>
 
   <text x="450" y="142"
@@ -108,7 +108,7 @@ usually found somewhere between a stack trace and a research paper.
         font-size="20"
         font-family="Georgia"
         font-style="italic">
-    ask why it exists...”
+###    ask why it exists...”
   </text>
 </svg>
 
