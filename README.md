@@ -1,5 +1,5 @@
 <div align="center">
-<img src="fav.gif"width="100%" alt="Terminal GIF"/></p>
+<img src="fav.gif"width="100%" height="450" alt="Terminal GIF"/></p>
   
 <br>
   
