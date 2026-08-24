@@ -37,7 +37,7 @@ I move between backend systems, LLM applications, and cryptographic research.
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=anuushka39&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 </div>
 
 <br/>
