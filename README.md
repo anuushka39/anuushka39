@@ -17,7 +17,7 @@ I move between backend systems, LLM applications, and cryptographic research.
 
 ## what I'm obsessed with
 
-`backend architecture` · `RAG & AI agents` · `multimodal AI` · `chaos-based cryptography` · `the gap between "it works" and "I understand why"`
+`backend architecture` · `RAG & AI agents` · `multimodal AI` · `chaos-based cryptography` · `the gap between "it works" and "I understand why`· `Universe` · `Consciousness` · `Awareness` · `Nothingness`
 
 <br/>
 
