@@ -37,14 +37,12 @@ I move between backend systems, LLM applications, and cryptographic research.
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge)
-![Async/Await](https://img.shields.io/badge/Async%2FAwait-%23000000.svg?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-%23000000.svg?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-%23000000.svg?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23000000.svg?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-%23000000.svg?style=for-the-badge)
-
-
+![REST APIs](https://img.shields.io/badge/REST%20APIs-%2361DAFB.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Async/Await](https://img.shields.io/badge/Async%2FAwait-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-%23FF6F61.svg?style=for-the-badge&logo=robotframework&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%2300A8E8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-%23FF9800.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 <br/>
 
 <div align="center">
