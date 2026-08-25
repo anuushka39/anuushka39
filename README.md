@@ -9,10 +9,6 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=anuushka39)
-
-<br/>
-
 ### hey, I'm Anushka 💫 — an engineer who builds, and a researcher who keeps asking *why*.
 
 I move between backend systems, LLM applications, and cryptographic research.
