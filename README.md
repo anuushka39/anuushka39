@@ -8,7 +8,7 @@
 </div>
 
 <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=anuushka39&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square)
+![](https://komarev.com/ghpvc/?username=anuushka39&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square)
 
 ### hey, I'm Anushka 💫 — an engineer who builds, and a researcher who keeps asking *why*.
 
